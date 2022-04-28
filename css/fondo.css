@@ -1,0 +1,11 @@
+.imagendefondo{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://www.muycomputer.com/wp-content/uploads/2021/05/Windows10_Actualizacion_Mayo_2021-1000x600.jpg");
+    background-size: cover;
+}
+.imagen{
+ width: 2.5rem;
+ margin-left: 1.5rem;
+ margin-top: 10px;
+}
