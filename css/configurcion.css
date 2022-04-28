@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+html{
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+:root{
+    --barracolor: #4b9bd2;
+    --white: #fdfffd;
+    --menu: #1a75bd;
+}
