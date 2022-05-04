@@ -9,3 +9,26 @@
  margin-left: 1.5rem;
  margin-top: 10px;
 }
+.imagen2{
+    width: 1.8rem;
+   margin-left: 35rem;
+   margin-top: -10rem;
+}
+
+  #search{
+    width: 335px;
+    height: 38px;
+    background: #fdfffd;
+    margin-left: 1rem;
+    border: 0.1rem solid #ada8a8 ;
+    font-size: 12pt;
+    float: left;
+    color: #464646;
+    padding-left: 41px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius:0px;
+    position: absolute;
+  }
+
+
